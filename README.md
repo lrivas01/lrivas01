@@ -36,5 +36,3 @@ Atualmente busco **oportunidade de estágio** para desenvolver experiência prá
 
 * **LinkedIn:**https://www.linkedin.com/in/lucas-rivas-4384b9336/**
 ---
-
-> ⚠️ Este perfil é voltado a estudos, projetos acadêmicos e aprendizado contínuo em tecnologia e segurança da informação.
